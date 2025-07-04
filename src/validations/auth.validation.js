@@ -2,7 +2,7 @@ const validateUserInput = (data) => {
   const requiredFields = [
     "name",
     "last_name",
-    "email",
+    "user_id",
     "password",
     "status",
     "district",
